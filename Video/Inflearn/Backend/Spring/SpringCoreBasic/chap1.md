@@ -84,7 +84,9 @@ EJB지옥을 벗어나고자 2개의 오픈 소스가 생김
 - 2020년 스프링 프레임워크 5.2.X, 스프링 부트 2.3.X
 
 
+### NEXT
 
+스프링 이란?
 
 ### 참고
 https://www.youtube.com/watch?v=r-i-FX_xqg4
