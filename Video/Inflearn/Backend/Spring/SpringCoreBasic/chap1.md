@@ -88,5 +88,6 @@ EJB지옥을 벗어나고자 2개의 오픈 소스가 생김
 
 스프링 이란?
 
-### 참고
+### 강의
+
 https://www.youtube.com/watch?v=r-i-FX_xqg4
